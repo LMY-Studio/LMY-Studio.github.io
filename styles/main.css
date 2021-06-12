@@ -136,3 +136,12 @@ h2 {
 nav ul.inline li a {
   display: block;
 }
+
+      .paper {
+        background: #39C5BB;
+      }
+    
+      .navbar {
+        background: #EE0000;
+      }
+    
