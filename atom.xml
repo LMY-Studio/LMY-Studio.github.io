@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://LMY-Studio.cf</id>
     <title>LMY-Studio</title>
-    <updated>2021-06-12T12:13:44.194Z</updated>
+    <updated>2021-06-12T13:08:22.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://LMY-Studio.cf"/>
     <link rel="self" href="http://LMY-Studio.cf/atom.xml"/>
@@ -16,7 +16,18 @@
         <link href="http://LMY-Studio.cf/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>LMY-Studio是LMY的工作室</p>
+        <content type="html"><![CDATA[<p><em>请检查浏览器是否屏蔽了LMY-Studio的脚本，否则网页可能无法正常访问</em></p>
+<h1 id="简介">简介</h1>
+<p>欢迎访问LMY-Studio！这里是LMY的工作室。<br>
+目前主要负责ravenfield模组整合包的制作等工作😜</p>
+<h1 id="站内成员">站内成员</h1>
+<p>· limingyang<br>
+OIer<br>
+开发者<br>
+LMY-Studio创建者<br>
+· 灵魂画手JYW<br>
+自愿加入的吃瓜群众<br>
+锦依卫</p>
 ]]></content>
     </entry>
 </feed>
