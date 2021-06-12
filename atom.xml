@@ -2,12 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://LMY-Studio.cf</id>
     <title>LMY-Studio</title>
-    <updated>2021-06-12T12:00:30.391Z</updated>
+    <updated>2021-06-12T12:09:51.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://LMY-Studio.cf"/>
     <link rel="self" href="http://LMY-Studio.cf/atom.xml"/>
-    <subtitle>&lt;b&gt;LMY工作室官方网站&lt;/b&gt;</subtitle>
+    <subtitle>&lt;font color=&quot;#250ccf&quot;&gt;LMY工作室官方网站&lt;/font&gt;</subtitle>
     <logo>http://LMY-Studio.cf/images/avatar.png</logo>
     <icon>http://LMY-Studio.cf/favicon.ico</icon>
     <rights>All rights reserved 2021, LMY-Studio</rights>
+    <entry>
+        <title type="html"><![CDATA[LMY-Studio]]></title>
+        <id>http://LMY-Studio.cf/post/about/</id>
+        <link href="http://LMY-Studio.cf/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>LMY-Studio是LMY的工作室</p>
+]]></content>
+    </entry>
 </feed>
